@@ -1,0 +1,14 @@
+# macOS sistem dosyalari
+.DS_Store
+
+# Derleme ciktilari ve calistirilabilir ikili dosyalar
+*.o
+*.out
+*.exe
+*.dSYM/
+main
+
+# VS Code ayarlari
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
