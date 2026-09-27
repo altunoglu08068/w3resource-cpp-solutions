@@ -21,6 +21,9 @@ w3resource-cpp-solutions/
 │       ├── 002-Sum-of-Two-Numbers/
 │       │   ├── README.md
 │       │   └── main.cpp
+│       ├── 003-Size-of-Fundamental-Data-Types/
+│       │   ├── README.md
+│       │   └── main.cpp
 │       └── ...
 ├── .gitignore
 └── README.md
@@ -34,4 +37,4 @@ w3resource-cpp-solutions/
 |---|---|---|---|
 | 001 | 001-Print-Welcome-Text | [main.cpp](Exercises/01-Basic-Exercises/001-Print-Welcome-Text/main.cpp) | Completed |
 | 002 | 002-Sum-of-Two-Numbers | [main.cpp](Exercises/01-Basic-Exercises/002-Sum-of-Two-Numbers/main.cpp) | Completed |
-| 003 | 003-Size-of-Fundamental-Data-Types | - | Pending |
+| 003 | 003-Size-of-Fundamental-Data-Types | [main.cpp](Exercises/01-Basic-Exercises/003-Size-of-Fundamental-Data-Types/main.cpp) | Completed |
