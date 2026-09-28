@@ -24,6 +24,9 @@ w3resource-cpp-solutions/
 │       ├── 003-Size-of-Fundamental-Data-Types/
 │       │   ├── README.md
 │       │   └── main.cpp
+│       ├── 004-Print-Sum-of-Two-Numbers-Using-Variables/
+│       │   ├── README.md
+│       │   └── main.cpp
 │       └── ...
 ├── .gitignore
 └── README.md
@@ -38,3 +41,4 @@ w3resource-cpp-solutions/
 | 001 | 001-Print-Welcome-Text | [main.cpp](Exercises/01-Basic-Exercises/001-Print-Welcome-Text/main.cpp) | Completed |
 | 002 | 002-Sum-of-Two-Numbers | [main.cpp](Exercises/01-Basic-Exercises/002-Sum-of-Two-Numbers/main.cpp) | Completed |
 | 003 | 003-Size-of-Fundamental-Data-Types | [main.cpp](Exercises/01-Basic-Exercises/003-Size-of-Fundamental-Data-Types/main.cpp) | Completed |
+| 004 | 004-Print-Sum-of-Two-Numbers-Using-Variables | [main.cpp](Exercises/01-Basic-Exercises/004-Print-Sum-of-Two-Numbers-Using-Variables/main.cpp) | Completed |
