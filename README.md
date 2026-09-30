@@ -27,11 +27,15 @@ w3resource-cpp-solutions/
 │       ├── 004-Print-Sum-of-Two-Numbers-Using-Variables/
 │       │   ├── README.md
 │       │   └── main.cpp
-│       └── 005-Check-Limits-of-Integer-Types/
+│       ├── 005-Check-Limits-of-Integer-Types/
+│       │   ├── README.md
+│       │   └── main.cpp
+│       └── 006-Check-Primitive-Value-Limits/
 │           ├── README.md
 │           └── main.cpp
 ├── .gitignore
-└── README.md
+├── README.md
+└── main
 ```
 
 ## 🎯 Progress Tracker
@@ -45,3 +49,4 @@ w3resource-cpp-solutions/
 | 003 | 003-Size-of-Fundamental-Data-Types | [main.cpp](Exercises/01-Basic-Exercises/003-Size-of-Fundamental-Data-Types/main.cpp) | Completed |
 | 004 | 004-Print-Sum-of-Two-Numbers-Using-Variables | [main.cpp](Exercises/01-Basic-Exercises/004-Print-Sum-of-Two-Numbers-Using-Variables/main.cpp) | Completed |
 | 005 | 005-Check-Limits-of-Integer-Types | [main.cpp](Exercises/01-Basic-Exercises/005-Check-Limits-of-Integer-Types/main.cpp) | Completed |
+| 006 | 006-Check-Primitive-Value-Limits | [main.cpp](Exercises/01-Basic-Exercises/006-Check-Primitive-Value-Limits/main.cpp) | Completed |
