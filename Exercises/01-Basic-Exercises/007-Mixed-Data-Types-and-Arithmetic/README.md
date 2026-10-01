@@ -19,3 +19,4 @@ Display arithmetic operations with mixed data type :
 5 / 7 = 0
 3.7 / 8.0 = 0.5
 5 / 8.0 = 0.6
+```
