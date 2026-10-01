@@ -30,7 +30,10 @@ w3resource-cpp-solutions/
 │       ├── 005-Check-Limits-of-Integer-Types/
 │       │   ├── README.md
 │       │   └── main.cpp
-│       └── 006-Check-Primitive-Value-Limits/
+│       ├── 006-Check-Primitive-Value-Limits/
+│       │   ├── README.md
+│       │   └── main.cpp
+│       └── 007-Mixed-Data-Types-and-Arithmetic/
 │           ├── README.md
 │           └── main.cpp
 ├── .gitignore
@@ -50,3 +53,4 @@ w3resource-cpp-solutions/
 | 004 | 004-Print-Sum-of-Two-Numbers-Using-Variables | [main.cpp](Exercises/01-Basic-Exercises/004-Print-Sum-of-Two-Numbers-Using-Variables/main.cpp) | Completed |
 | 005 | 005-Check-Limits-of-Integer-Types | [main.cpp](Exercises/01-Basic-Exercises/005-Check-Limits-of-Integer-Types/main.cpp) | Completed |
 | 006 | 006-Check-Primitive-Value-Limits | [main.cpp](Exercises/01-Basic-Exercises/006-Check-Primitive-Value-Limits/main.cpp) | Completed |
+| 007 | 007-Mixed-Data-Types-and-Arithmetic | [main.cpp](Exercises/01-Basic-Exercises/007-Mixed-Data-Types-and-Arithmetic/main.cpp) | Completed |
